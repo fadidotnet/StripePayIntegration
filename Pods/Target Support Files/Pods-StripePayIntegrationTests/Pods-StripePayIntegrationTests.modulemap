@@ -1,0 +1,6 @@
+framework module Pods_StripePayIntegrationTests {
+  umbrella header "Pods-StripePayIntegrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
